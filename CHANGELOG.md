@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "monokai-vibrant" extension will be documented in this file.
 
+## 0.5.0
+- Replaced yellow bar at bottom with a nice dark one per relentless request :)
+
 ## 0.4.0
 - Added color swatch image to README
 
