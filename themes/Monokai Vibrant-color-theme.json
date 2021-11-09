@@ -551,8 +551,6 @@
     "editorSuggestWidget.selectedBackground": "#2c313a",
     "editorWidget.background": "#21252B",
     "input.background": "#1d1f23",
-    "notification.background": "#21252b",
-		// Lists
     "list.activeSelectionBackground": "#2c313a",
     "list.activeSelectionForeground": "#d7dae0",
     "list.focusBackground": "#383E4A",
@@ -560,24 +558,21 @@
     "list.highlightForeground": "#C5C5C5",
     "list.inactiveSelectionBackground": "#2c313a",
     "list.inactiveSelectionForeground": "#d7dae0",
-		// Scroll bars
+    "notification.background": "#21252b",
     "scrollbarSlider.background": "#4E566680",
     "scrollbarSlider.activeBackground": "#747D9180",
     "scrollbarSlider.hoverBackground": "#5A637580",
-		// Status bars
-    "sideBar.background": "#1D1F23",
+    "sideBar.background": "#191B20",
     "sideBarSectionHeader.background": "#282c34",
     "statusBar.background": "#16171D",
     "statusBar.foreground": "#fff",
     "statusBarItem.hoverBackground": "#2c313a",
     "statusBar.noFolderBackground": "#21252B",
     "statusBar.debuggingBackground": "#21252B",
-		// Tabs
     "tab.activeBackground": "#2c313a",
     "tab.border": "#181A1F",
 		"tab.activeBorderTop": "#007DD8",
     "tab.inactiveBackground": "#21252B",
-		// Titles
     "titleBar.activeBackground": "#282c34",
     "titleBar.activeForeground": "#9da5b4",
     "titleBar.inactiveBackground": "#282C34",
