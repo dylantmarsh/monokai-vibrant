@@ -197,7 +197,6 @@
       }
     },
 
-    // Support function color changed to #19D1E5 
     {
       "name": "Function name",
       "scope": [
@@ -208,7 +207,8 @@
         "foreground": "#81F900"
       }
     },
-  
+    
+    // Support function color changed to #19D1E5 
     {
       "name": "Library function",
       "scope": "support.function",
