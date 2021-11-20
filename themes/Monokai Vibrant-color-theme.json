@@ -33,27 +33,35 @@
         "foreground": "#FFD945"
       }
     },
+
+    // Punctuation template expression is enabled for all languages
     {
-      "name": "js template-expression",
-      "scope": "punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js,punctuation.definition.template-expression.begin.ts,punctuation.definition.template-expression.end.ts",
+      "name": "Punctuation Template Expression",
+      "scope": "punctuation.definition.template-expression.begin, punctuation.definition.template-expression.end, punctuation.section.embedded",
       "settings": {
         "foreground": "#FF3F4F"
       }
     },
+
+    // End of punctuation
+
+    // Template strings are enabled for all languages
     {
       "name": "TemplateString",
-      "scope": "string.template.js",
+      "scope": "meta.string.template",
       "settings": {
         "foreground": "#E5A422"
       }
     },
     {
-      "name": "TemplateString",
-      "scope": "meta.template.expression.js",
+      "name": "Meta",
+      "scope": "meta",
       "settings": {
         "foreground": "#f8f8f0"
       }
     },
+
+    // End of template strings
     {
       "name": "Number",
       "scope": "constant.numeric",
@@ -78,11 +86,13 @@
         "foreground": "#98c379"
       }
     },
+
+  // Built in and user constants were changed to #E373CE
     {
       "name": "Built-in constant",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#19D1E5"
+        "foreground": "#E373CE"
       }
     },
     {
@@ -92,9 +102,10 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#19D1E5"
+        "foreground": "#E373CE"
       }
     },
+
     {
       "name": "Language Variable",
       "scope": "variable.language",
@@ -185,6 +196,8 @@
         "foreground": "#81F900"
       }
     },
+
+    // Support function color changed to #19D1E5 
     {
       "name": "Function name",
       "scope": [
@@ -192,9 +205,10 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#81F900"
+        "foreground": "#19D1E5"
       }
     },
+  
     {
       "name": "Function argument",
       "scope": "variable.parameter",
