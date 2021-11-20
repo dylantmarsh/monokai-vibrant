@@ -205,10 +205,19 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#19D1E5"
+        "foreground": "#81F900"
       }
     },
   
+    {
+      "name": "Library function",
+      "scope": "support.function",
+      "settings": {
+        "foreground": "#19D1E5"
+      }
+    },
+
+
     {
       "name": "Function argument",
       "scope": "variable.parameter",
