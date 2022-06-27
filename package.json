@@ -36,6 +36,11 @@
                 "label": "Monokai Vibrant",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Monokai Vibrant-color-theme.json"
+            },
+            {
+                "label": "Monokai Vibrant (No Italics)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Monokai Vibrant No Italics-color-theme.json"
             }
         ]
     }

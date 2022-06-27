@@ -1,5 +1,5 @@
 {
-  "name": "Monokai Vibrant",
+  "name": "Monokai Vibrant (No Italics)",
   "type": "dark",
   "tokenColors": [
     {
@@ -24,8 +24,7 @@
         "string.comment"
       ],
       "settings": {
-        "foreground": "#5c6370",
-        "fontStyle": "italic"
+        "foreground": "#5c6370"
       }
     },
     {
@@ -112,8 +111,7 @@
     "name": "Language Variable",
     "scope": "variable.language",
     "settings": {
-      "foreground": "#FF3F4F",
-      "fontStyle": "italic"
+      "foreground": "#FF3F4F"
     }
   },
   {
@@ -134,24 +132,21 @@
       "keyword.operator.constructor"
     ],
     "settings": {
-      "foreground": "#FF3F4F",
-      "fontStyle": "italic"
+      "foreground": "#FF3F4F"
     }
   },
   {
     "name": "Keyword Operator",
     "scope": "keyword.operator",
     "settings": {
-      "foreground": "#FF3F4F",
-      "fontStyle": "italic"
+      "foreground": "#FF3F4F"
     }
   },
   {
     "name": "Storage",
     "scope": "storage",
     "settings": {
-      "foreground": "#FF3F4F",
-      "fontStyle": "italic"
+      "foreground": "#FF3F4F"
     }
   },
   {
@@ -224,7 +219,6 @@
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "fontStyle": "italic",
         "foreground": "#FF9700"
       }
     },
@@ -603,4 +597,5 @@
   "titleBar.inactiveBackground": "#282C34",
   "titleBar.inactiveForeground": "#6B717D"
 }
+
 }
