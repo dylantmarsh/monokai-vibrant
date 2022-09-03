@@ -49,6 +49,10 @@ If you are not using a font that does not support italics, you can add this to y
 }
 ```
 
-Don't forget to leave a review on the marketplace!
+## Extras
 
-**Enjoy!**
+A long-term goal of this project is to provide color schemes for other popular applications in the `/extras` folder. A vim/nvim theme would be greatly appreciated if anyone is interested in contributing.
+
+---
+
+Don't forget to leave a review on the marketplace! **Enjoy!**
