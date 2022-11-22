@@ -526,6 +526,13 @@
             }
         }
     ],
+    "semanticHighlighting": true,
+    "semanticTokenColors": {
+        "newOperator":"#FF3F4F",
+        "stringLiteral":"#FFD945",
+        "customLiteral": "#81F900",
+        "numberLiteral": "#E373CE",
+    },
     "colors": {
         "activityBar.background": "#16171D",
         "activityBar.foreground": "#D7DAE0",
@@ -580,6 +587,8 @@
         "titleBar.activeBackground": "#282c34",
         "titleBar.activeForeground": "#9da5b4",
         "titleBar.inactiveBackground": "#282C34",
-        "titleBar.inactiveForeground": "#6B717D"
+        "titleBar.inactiveForeground": "#6B717D",
+        "editorInlayHint.foreground": "#838594",
+        "editorInlayHint.background": "#262831"
     }
 }
