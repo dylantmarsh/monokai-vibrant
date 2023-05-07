@@ -554,6 +554,7 @@
     "titleBar.inactiveBackground": "#282C34",
     "titleBar.inactiveForeground": "#6B717D",
     "editorInlayHint.foreground": "#838594",
-    "editorInlayHint.background": "#262831"
+    "editorInlayHint.background": "#262831",
+    "editorHoverWidget.highlightForeground": "#ffffff"
   }
 }
