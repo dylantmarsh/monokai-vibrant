@@ -26,7 +26,7 @@
 
 ## Disable Italics
 
-If you are not using a font that does not support italics, you can add this to your `settings.json` to disabled them.
+If you are not using a font that does not support italics, you can add this to your `settings.json` to disable them.
 
 ```json
 "editor.tokenColorCustomizations": {
