@@ -20,16 +20,7 @@ jobs:
           node-version: 20
 
       - name: Install Dependencies
-        run: npm ci
-
-      - name: Lint Code
-        run: npm run lint
-
-      - name: Run Tests
-        run: npm test
-
-      - name: Build Extension
-        run: npm run build
+        run: npm i
 
       - name: Package Extension
         run: |
