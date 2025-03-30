@@ -3,7 +3,7 @@
     <h2 align="center" style="letter-spacing:2px;font-weight:700">MONOKAI VIBRANT</h2>
 </p>
 
-<p align="center">A very dark and vibrant Monokai based theme.</p>
+<p align="center">A very high contrast and vibrant Monokai based theme.</p>
 
 <p align="center">
     <img alt="Visual Studio Marketplace Rating" src="https://img.shields.io/visual-studio-marketplace/r/s3gf4ult.monokai-vibrant?color=%231dd1e5&style=for-the-badge">
@@ -13,9 +13,9 @@
 
 ![Monokai Vibrant JavaScript Example](https://f000.backblazeb2.com/file/app-media/monokai-vibrant.jpg)
 
-* 🌙 Super dark editor color scheme
+* 🌙 High contrast dark editor color scheme
 * 🍭 Vibrant colors for better readability
-* 💻 Italicized keywords compliments "Operator Mono" or similar fonts (optional)
+* 💻 Italicized keywords complement "Operator Mono" or similar fonts (optional)
 
 ## Install
 
